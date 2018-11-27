@@ -21,8 +21,8 @@ crop(byte[] data,byte[] srcData,int w,int h,int left,int top,int right,int botto
 ```srcData```裁剪后生成的数据<br />
 ```w```目标数据的宽<br />
 ```h```目标数据的高<br />
-```srcW```目标数据的宽<br />
-```srcH```目标数据的高<br />
+```srcW```生成数据的宽<br />
+```srcH```生成数据的高<br />
 
 ```
 crop(byte[] data,byte[] srcData,int w,int h,int srcW,int srcH)
