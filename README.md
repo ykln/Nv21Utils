@@ -1,4 +1,4 @@
-#Nv21或Nv12的工具
+# Nv21或Nv12的工具
 * 旋转<br />
 ```
 rotating(byte[] data,int w,int h,int rotating)
